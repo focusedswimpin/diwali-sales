@@ -8,16 +8,10 @@ Diwali, the festival of lights, brings not just joy and happiness but also a sig
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
